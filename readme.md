@@ -7,4 +7,4 @@ The functionality of this website is kind of similar like stackoverflow, though 
 In this website anyone can porst their questions, and from the users if anyone know the answer can reply. Beisdes, there is a thumbs up/down button attached with every answers and questions. Therefore, it is easy to know the questions/answers are relveant or not.
 The person who post the question can select the appropriate answer by clicking the tick mark.
 
-
+:)
