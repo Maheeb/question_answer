@@ -8,3 +8,20 @@ In this website anyone can porst their questions, and from the users if anyone k
 The person who post the question can select the appropriate answer by clicking the tick mark.
 
 :)
+
+
+
+
+## Front page of the website
+
+<img src="website_pics/FireShot Capture 003 - question_answer - 127.0.0.1.png">
+
+
+### Anyone can ask questions as their choice
+
+<img src="website_pics/FireShot Capture 006 - question_answer - 127.0.0.1.png">
+
+
+### User can provide answer and also marks their favorite answer as well as giving up vote
+
+<img src="website_pics/FireShot Capture 009 - question_answer - 127.0.0.1.png">
