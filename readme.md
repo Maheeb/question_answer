@@ -7,7 +7,7 @@ The functionality of this website is kind of similar like stackoverflow, though 
 In this website anyone can porst their questions, and from the users if anyone know the answer can reply. Beisdes, there is a thumbs up/down button attached with every answers and questions. Therefore, it is easy to know the questions/answers are relveant or not.
 The person who post the question can select the appropriate answer by clicking the tick mark.
 
-:)
+
 
 
 
@@ -25,3 +25,6 @@ The person who post the question can select the appropriate answer by clicking t
 ### User can provide answer and also marks their favorite answer as well as giving up vote
 
 <img src="website_pics/FireShot Capture 009 - question_answer - 127.0.0.1.png">
+
+
+:)
